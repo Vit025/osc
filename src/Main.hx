@@ -19,7 +19,7 @@ class Main {
 		stage.align = StageAlign.TOP_LEFT;
 		// entry point
 		
-		trace("gggg");
+		trace("uuu");
 		
 		/*var app:ApplicationFacade = new ApplicationFacade(Lib.current);
 		app.startup();*/
